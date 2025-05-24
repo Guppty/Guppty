@@ -8,3 +8,4 @@ Check out my [personal portfolio!](https://guppty.github.io/Portfolio/)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-cardona/)
+[![Tiktok](tiktok.com/@guppty_adrian)
