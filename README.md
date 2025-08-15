@@ -6,7 +6,7 @@
 
 - 👯 I’m currently studying **Leetcode and Data Structures & Algorithms**
 
-- 💬 **Feel Free to Connect with me**
+# 🌐 Connect with Me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrian-cardona/) 
 
 # 💻 Tech Stack:
