@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate frontend developer from Los Angeles California</h3>
 
 - 🔭 I’m currently working on **My Personal Portfolio**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m a rising junior transfer student at  **California Polytechnic University, San Luis Obispo**
 
-- 👯 I’m looking to collaborate on **Anyone in the tech industry**
+- 👯 I’m currently studying ** Leetcode and Data Structures & Algorithms**
 
-- 💬 Ask me about **Python!**
+- 💬 ** Feel Free to Connect with me **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
