@@ -4,7 +4,7 @@
 
 - 🌱 I’m a rising junior transfer student at  **California Polytechnic University, San Luis Obispo**
 
-- 👯 I’m currently studying ** Leetcode and Data Structures & Algorithms**
+- 👯 I’m currently studying **Leetcode and Data Structures & Algorithms**
 
 - 💬 ** Feel Free to Connect with me **
 
