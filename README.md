@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 
-- 🔭 I’m currently working on **My Personal Portfolio**
-
-- 🌱 I’m a rising junior transfer student at  **California Polytechnic University, San Luis Obispo**
-
-- 👯 I’m currently studying **Leetcode and Data Structures & Algorithms**
-
 # 🌐 Connect with Me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-cardona/) 
 
